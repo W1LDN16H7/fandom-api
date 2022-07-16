@@ -6,7 +6,7 @@
             "https://raw.githubusercontent.com/W1LDN16H7/fandom-api/master/resources/st1.jpg",
             "https://raw.githubusercontent.com/W1LDN16H7/fandom-api/master/resources/st2.jpg"
         ],
-        "genres": " Horror, Horror fiction, Thriller, Drama, Supernatural, Mystery, Historical drama",
+        "genres": " Horror, Horror fiction,Drama",
         "storyline": "In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries.",
         "years_active": "2016-",
         "imdb ": "8.7"
@@ -27,12 +27,36 @@
         "id": 3,
         "title": "Harry Potter",
         "images": [
-            "https://raw.githubusercontent.com/W1LDN16H7/fandom-api/master/resources/2564207.jpg",
-            "https://raw.githubusercontent.com/W1LDN16H7/fandom-api/master/resources/Rc3r14M.jpg"
+            "https://raw.githubusercontent.com/W1LDN16H7/fandom-api/master/resources/hp1.jpg",
+            "https://raw.githubusercontent.com/W1LDN16H7/fandom-api/master/resources/hp2.jpg"
         ],
         "genres": "Fantasy",
         "storyline": "Harry Potter series is a story about a young orphan - Harry Potter- who lives with his maternal aunt and uncle and their son(the dursleys). At the age of 11, Harry gets to know that he is a wizard (his relatives are non-magical people, muggles) and has been offered admission in Hogwarts school of Witchcraft and Wizardry. He gets to know that there’s a magical world running parallel to the real world but it is hidden in secrecy.",
         "years_active": "2001-2011",
         "imdb ": "8.1"
+    },
+    {
+        "id": 4,
+        "title": "Lord of The Rings",
+        "images": [
+            "https://raw.githubusercontent.com/W1LDN16H7/fandom-api/master/resources/lotr1.jpg",
+            "https://raw.githubusercontent.com/W1LDN16H7/fandom-api/master/resources/lotr2.jpg"
+        ],
+        "genres": "Fantasy Fiction, High fantasy",
+        "storyline": "The future of civilization rests in the fate of the One Ring, which has been lost for centuries. Powerful forces are unrelenting in their search for it. But fate has placed it in the hands of a young Hobbit named Frodo Baggins (Elijah Wood), who inherits the Ring and steps into legend. A daunting task lies ahead for Frodo when he becomes the Ringbearer - to destroy the One Ring in the fires of Mount Doom where it was forged.",
+        "years_active": "2001-2003",
+        "imdb ": "8.8"
+    },
+    {
+        "id": 5,
+        "title": "Marvel Cinematic Universe",
+        "images": [
+            "https://raw.githubusercontent.com/W1LDN16H7/fandom-api/master/resources/mv1.jpg",
+            "https://raw.githubusercontent.com/W1LDN16H7/fandom-api/master/resources/mv2.jpg"
+        ],
+        "genres": "Superhero",
+        "storyline": "The future of civilization rests in the fate of the One Ring, which has been lost for centuries. Powerful forces are unrelenting in their search for it. But fate has placed it in the hands of a young Hobbit named Frodo Baggins (Elijah Wood), who inherits the Ring and steps into legend. A daunting task lies ahead for Frodo when he becomes the Ringbearer - to destroy the One Ring in the fires of Mount Doom where it was forged.",
+        "years_active": "2001-2003",
+        "imdb ": "8.8"
     }
 ]

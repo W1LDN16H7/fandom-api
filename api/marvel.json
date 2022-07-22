@@ -7,7 +7,7 @@
         "Date_of_Birth": "May 29, 1970",
         "Date_of_Death": "October 2023",
         "Posters": [
-            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/TonyStark.jpg",
+            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/TonyStark.jpeg",
             "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/TonyStark1.jpg"
         ],
         "Title": "Iron Man,Tony Stark",
@@ -41,8 +41,8 @@
         "Date_of_Birth": "July 4, 1918",
         "Date_of_Death": "",
         "Posters": [
-            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Cap.jpeg",
-            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Cap1.jpeg"
+            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Cap.jpg",
+            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Cap1.jpg"
         ],
         "Title": "Steve Rogers,Captain America",
         "Genre": "SuperHero",
@@ -59,7 +59,7 @@
         "Date_of_Death": "",
         "Posters": [
             "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Falcon.jpeg",
-            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Falcon1.jpeg"
+            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Falcon1.jpg"
         ],
         "Title": "Falcon,Captain America",
         "Genre": "SuperHero",
@@ -76,7 +76,7 @@
         "Date_of_Death": "",
         "Posters": [
             "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Hulk1.jpeg",
-            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Hulk2.jpeg"
+            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Hulk2.jpg"
         ],
         "Title": "Doctor Champion",
         "Genre": "SuperHero",
@@ -93,7 +93,7 @@
         "Date_of_Death": "",
         "Posters": [
             "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/AntMan.jpeg",
-            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/AntMan1.jpeg"
+            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/AntMan1.jpg"
         ],
         "Title": "Scott Lang",
         "Genre": "SuperHero",
@@ -109,8 +109,8 @@
         "Date_of_Birth": "August 10, 2001",
         "Date_of_Death": "",
         "Posters": [
-            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Parker.jpeg",
-            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Parker1.jpeg"
+            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Parker.jpg",
+            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Parker1.jpg"
         ],
         "Title": "Spider-Man",
         "Genre": "SuperHero",
@@ -143,7 +143,7 @@
         "Date_of_Birth": "Early 1989",
         "Date_of_Death": "",
         "Posters": [
-            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Wanda.jpg",
+            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Wanda.jpeg",
             "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Wanda1.jpg"
         ],
         "Title": "Scarlet Witch",

@@ -75,8 +75,8 @@
         "Date_of_Birth": "December 18, 1969",
         "Date_of_Death": "",
         "Posters": [
-            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Hulk1.jpeg",
-            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Hulk2.jpg"
+            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Hulk.jpeg",
+            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Hulk1.jpg"
         ],
         "Title": "Doctor Champion",
         "Genre": "SuperHero",
@@ -92,8 +92,8 @@
         "Date_of_Birth": "",
         "Date_of_Death": "",
         "Posters": [
-            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/AntMan.jpeg",
-            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/AntMan1.jpg"
+            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Antman.jpeg",
+            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Antman1.jpg"
         ],
         "Title": "Scott Lang",
         "Genre": "SuperHero",

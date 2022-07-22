@@ -15,8 +15,8 @@
         "id": 2,
         "title": "Star Wars",
         "images": [
-            "https://raw.githubusercontent.com/W1LDN16H7/fandom-api/master/resources/stw3.jpg",
-            "https://raw.githubusercontent.com/W1LDN16H7/fandom-api/master/resources/stw4.jpg"
+            "https://raw.githubusercontent.com/W1LDN16H7/fandom-api/master/resources/stw4.jpg",
+            "https://raw.githubusercontent.com/W1LDN16H7/fandom-api/master/resources/stw3.jpg"
         ],
         "genres": "Science fiction",
         "storyline": "As multiple star systems get involved in the Clone Wars, the Jedi Knights struggle to keep the peace and defeat the droid army of the Separatists. Meanwhile, an old threat slowly reveals its presence.",

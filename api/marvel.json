@@ -41,8 +41,8 @@
         "Date_of_Birth": "July 4, 1918",
         "Date_of_Death": "",
         "Posters": [
-            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Cap1.jpg",
-            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Cap3.jpg"
+            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/captain-america-with.jpg",
+            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/captain-america.jpg"
         ],
         "Title": "Steve Rogers,Captain America",
         "Genre": "SuperHero",
@@ -58,8 +58,8 @@
         "Date_of_Birth": "September 23, 1978",
         "Date_of_Death": "",
         "Posters": [
-            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Falcon2.jpeg",
-            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Falcon1.jpg"
+            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Sam-Cap.jpg",
+            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Sam-Cap.jpg"
         ],
         "Title": "Falcon,Captain America",
         "Genre": "SuperHero",
@@ -92,8 +92,8 @@
         "Date_of_Birth": "",
         "Date_of_Death": "",
         "Posters": [
-            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Antman2.jpg",
-            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Antman1.jpg"
+            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/maxresdefault.jpg",
+            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/maxresdefault.jpg"
         ],
         "Title": "Scott Lang",
         "Genre": "SuperHero",
@@ -109,8 +109,8 @@
         "Date_of_Birth": "August 10, 2001",
         "Date_of_Death": "",
         "Posters": [
-            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Parker.jpg",
-            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Parker.jpg"
+            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/spiderman-tom-holland-2.jpg",
+            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/spiderman-tom-holland-2.jpg"
         ],
         "Title": "Spider-Man",
         "Genre": "SuperHero",
@@ -177,8 +177,8 @@
         "Date_of_Birth": "Early 1980s",
         "Date_of_Death": "",
         "Posters": [
-            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Panther.jpeg",
-            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/Panther.jpeg"
+            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/boseman-black-panther.jpg",
+            "https://raw.githubusercontent.com/SmartApps-Ind/Avengers-Gallery/master/images/src/boseman-black-panther.jpg"
         ],
         "Title": "Prince of Wakanda",
         "Genre": "SuperHero",

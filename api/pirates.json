@@ -3,21 +3,21 @@
         "id": "1",
         "name": "Jack Sparrow",
         "gender": "male",
-        "image": "https://lumiere-a.akamaihd.net/v1/images/e12c6b042ba46e43697492be6bce82e81409abd7.jpeg?region=0,0,450,450&width=160",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/e12c6b042ba46e43697492be6bce82e81409abd7.jpeg",
         "about": "Captain of the Black Pearl and legendary pirate of the Seven Seas, Captain Jack Sparrow is the irreverent trickster of the Caribbean. A captain of equally dubious morality and sobriety, a master of self-promotion and self interest, he ﬁghts a constant and losing battle with his own best tendencies."
     },
     {
         "id": "2",
         "name": "Hector Barbossa",
         "gender": "male",
-        "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-12bpslx_48e9f0da.jpeg?region=0,0,450,450&width=160",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-12bpslx_48e9f0da.jpeg",
         "about": "Once a ferocious pirate and deadly enemy of Captain Jack Sparrow, Captain Barbossa enters an uneasy alliance with his rival in a race to the Fountain of Youth. Hector Barbossa, a vile pirate returned from the dead, is the ultimate survivor. Having lost his leg—and the Black Pearl—Barbossa has traded black and silver for the grand blue and gold uniform of his Majesty’s Royal navy. Now serving as a privateer and commanding the Providence under the Union Jack rather than the Jolly Roger, Barbossa claims to owe his allegiance to King and Country. But is it valor or revenge that pushes Barbosa toward the Fountain of Youth, a rendezvous with Captain Jack, Blackbeard and destiny?"
     },
     {
         "id": "3",
         "name": "Joshamee Gibbs",
         "gender": "male",
-        "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-9fled6_d03aef55.jpeg?region=0,0,450,450&width=160",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-9fled6_d03aef55.jpeg",
         "about": "A superstitious deckhand with muted impatience for authority, Gibbs sails alongside his preferred captain and friend, Jack Sparrow."
     },
     {
@@ -31,7 +31,7 @@
         "id": "5",
         "name": "Davy Jones",
         "gender": "male",
-        "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-162ppbj_ec9d6c7c.jpeg?region=0,0,450,450&width=160",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-162ppbj_ec9d6c7c.jpeg",
         "about": "The legendary Davy Jones is a supernatural force condemned for eternity to captain the haunted ship, the Flying Dutchman. But once, Davy Jones was a man, like any other, who ran afoul of that which vexes all men."
     },
     {
@@ -45,35 +45,35 @@
         "id": "7",
         "name": "Will Turner",
         "gender": "male",
-        "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-nfwbfe_0f39b2c9.jpeg?region=0,0,450,450&width=160",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-nfwbfe_0f39b2c9.jpeg",
         "about": "Born to a father he did not know was a pirate, Will Turner remains humble and selfless even as he sails the seas to save his father and find his true love Elizabeth Swan."
     },
     {
         "id": "8",
         "name": "Blackbeard",
         "gender": "male",
-        "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-1hx92wj_46bf0c82.jpeg?region=0,0,450,450&width=160",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-1hx92wj_46bf0c82.jpeg",
         "about": "The blackest soul and the darkest heart of any pirate who ever lived, striking fear into the bravest of sailors. Blackbeard, a name uttered in terror by all who sail the sea, or any unfortunate enough to encounter him on dry land. His flagship, the Queen Anne's Revenge, is manned by zombies, festooned with the bones of his victims and spits ﬁre from its bow to incincrate enemy ships, or the occasional crew member fallen out of favor. Blackbeard dabbles in the Black Arts and wields a sword with one of the three sapphires of Triton. But Blackbeard lives under the shadow of a prophesied death, his only hope the restorative waters of the Fountain of Youth. Whatever it takes, no matter who is crushed beneath the weight of his heartless ambition, Blackbeard will get there, by any possible means."
     },
     {
         "id": "9",
         "name": "Angelica",
         "gender": "female",
-        "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-1kiemvr_3688881a.jpeg?region=0,0,450,450&width=160",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-1kiemvr_3688881a.jpeg",
         "about": "With Blackbeard and Jack Sparrow in her life, it's no wonder beautiful Angelica is a pirate dangerous to match swords with, let alone hearts. A woman who tells lies that are truths and truths that are lies, Angelica may or may not be the daughter of the feared Blackbeard himself. A master of disguises, she learned the art of the con from the best, one Captain Jack Sparrow. An accomplished sailor who can wield a sword, ﬁght and plunder with the ﬁercest of pirates, Angelica is hell-bent on one goal: to save the eternal soul of Blackbeard from certain damnation, even if it means matching Captain Jack lie for lie and double cross for double cross."
     },
     {
         "id": "10",
         "name": "Pintel & Ragetti",
         "gender": "male",
-        "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-edkkzh_090efe8c.jpeg?region=0,0,450,450&width=160",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-edkkzh_090efe8c.jpeg",
         "about": "Pintel and Ragetti muddle their way from one situation to another, small minds in the middle of great events."
     },
     {
         "id": "11",
         "name": "Jack the Monkey",
         "gender": "male",
-        "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-1a1tdoq_372a7e6a.jpeg?region=0,0,450,450&width=160",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-1a1tdoq_372a7e6a.jpeg",
         "about": "Named after Jack Sparrow, this capuchin monkey is fiercely loyal to his owner Captain Barbossa."
     },
     {
